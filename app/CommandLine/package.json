@@ -1,0 +1,17 @@
+{
+  "name": "commandline",
+  "version": "1.0.0",
+  "description": "Command Line Interface for App",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^6.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}

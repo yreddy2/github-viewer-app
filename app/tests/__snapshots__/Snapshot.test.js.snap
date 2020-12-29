@@ -1,0 +1,195 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Followers Screen Error Test 1`] = `<followersScreen />`;
+
+exports[`Followers Screen Error Test 2`] = `<followingScreen />`;
+
+exports[`Followers Screen Loading Test 1`] = `<followersScreen />`;
+
+exports[`Followers Screen Loading Test 2`] = `<followingScreen />`;
+
+exports[`Followers Screen Working Test 1`] = `<followersScreen />`;
+
+exports[`Following Screen UI Test 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "System",
+          "fontWeight": "400",
+          "textAlign": "left",
+        },
+        Array [
+          Object {
+            "color": "rgba(0, 0, 0, 0.87)",
+            "fontFamily": "System",
+            "fontWeight": "500",
+            "textAlign": "left",
+            "writingDirection": "ltr",
+          },
+          Array [
+            Object {
+              "fontSize": 20,
+              "letterSpacing": 0.15,
+              "lineHeight": 30,
+              "marginVertical": 2,
+            },
+            undefined,
+          ],
+          Array [
+            Object {
+              "fontSize": 20,
+              "letterSpacing": 0.15,
+              "lineHeight": 30,
+              "marginVertical": 2,
+            },
+            undefined,
+          ],
+        ],
+      ]
+    }
+  >
+    Error Fetching Data!
+  </Text>
+</RCTSafeAreaView>
+`;
+
+exports[`Following Screen Working Test 1`] = `<followingScreen />`;
+
+exports[`Loading User Screen UI Test 1`] = `<userScreen />`;
+
+exports[`Repositories Screen Error Test 1`] = `<repositoriesScreen />`;
+
+exports[`Repositories Screen Loading Test 1`] = `<repositoriesScreen />`;
+
+exports[`Repositories Screen Working Test 1`] = `<repositoriesScreen />`;
+
+exports[`Repositories Test 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "System",
+          "fontWeight": "400",
+          "textAlign": "left",
+        },
+        Array [
+          Object {
+            "color": "rgba(0, 0, 0, 0.87)",
+            "fontFamily": "System",
+            "fontWeight": "500",
+            "textAlign": "left",
+            "writingDirection": "ltr",
+          },
+          Array [
+            Object {
+              "fontSize": 20,
+              "letterSpacing": 0.15,
+              "lineHeight": 30,
+              "marginVertical": 2,
+            },
+            undefined,
+          ],
+          Array [
+            Object {
+              "fontSize": 20,
+              "letterSpacing": 0.15,
+              "lineHeight": 30,
+              "marginVertical": 2,
+            },
+            undefined,
+          ],
+        ],
+      ]
+    }
+  >
+    Error Fetching Data!
+  </Text>
+</RCTSafeAreaView>
+`;
+
+exports[`User Screen Error Test 1`] = `<userScreen />`;
+
+exports[`User Screen Loading Test 1`] = `<userScreen />`;
+
+exports[`User Screen Working Test 1`] = `<userScreen />`;
+
+exports[`User test 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "System",
+          "fontWeight": "400",
+          "textAlign": "left",
+        },
+        Array [
+          Object {
+            "color": "rgba(0, 0, 0, 0.87)",
+            "fontFamily": "System",
+            "fontWeight": "500",
+            "textAlign": "left",
+            "writingDirection": "ltr",
+          },
+          Array [
+            Object {
+              "fontSize": 20,
+              "letterSpacing": 0.15,
+              "lineHeight": 30,
+              "marginVertical": 2,
+            },
+            undefined,
+          ],
+          Array [
+            Object {
+              "fontSize": 20,
+              "letterSpacing": 0.15,
+              "lineHeight": 30,
+              "marginVertical": 2,
+            },
+            undefined,
+          ],
+        ],
+      ]
+    }
+  >
+    Error Fetching Data!
+  </Text>
+</RCTSafeAreaView>
+`;
