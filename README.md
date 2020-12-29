@@ -11,9 +11,12 @@ The GraphQL API from GitHub is used to gather data about the users. The API can 
 
 - You will also need a GitHub Token to access the API. This can generated in the developer settings of your GitHub profile.
 
--Expo was used create the app since it packages and runs both ios and android versions of the app easily.
+- Expo was used create the app since it packages and runs both ios and android versions of the app easily.
 
+## Command Line Interface
+
+I have also implemented a Command Line Interface for the App with allows the a user to browse the GitHub API in a terminal. I used Node.js to create the app. It can be found in the CommandLine folder.
 
 ## Next Step
 
-The next step for the app is to extend it to allow users to browse the followers and followings of a certain user. This way you can check out other users profiles and repositories. A search functionality can also be added to extend the ability to browse users on the site.
+A search functionality can also be added to extend the ability to browse users on the site.
